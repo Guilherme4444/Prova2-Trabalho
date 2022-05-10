@@ -12,4 +12,19 @@ public class ExemploString {
 }
 
 
-// CharAT e Length
+// EXEMPLO 2
+
+public class ExemploString2 {
+    public static void main(String args[]){
+        String nome = null;  
+     
+        if(nome != null)
+          System.out.println(nome.length());    
+        else
+          System.out.println("Objeto é nulo.");      
+     
+        System.exit(0);
+      }
+    }
+
+//Exemplo 3
