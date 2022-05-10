@@ -1,0 +1,32 @@
+charAt – 
+Retorna o caractere no índice especificado (posição);
+
+compareTo- 
+Compara duas strings lexicograficamente
+
+concat() – 
+Acrescenta uma string ao final de outra string
+
+contains – 
+Verifica se uma string contém uma sequência de caracteres
+
+contentEquals – 
+Verifica se uma string contém exatamente a mesma sequência de caracteres do CharSequence ou StringBuffer especificado;
+
+endsWith – 
+Verifica se uma string termina com o(s) caractere(s) especificado(s)
+
+lenght – 
+Retorna o comprimento de uma string especificada
+
+statsWith – 
+Verifica se uma string começa com caracteres especificados
+
+split – 
+Divide uma string em uma matriz de substrings
+
+toUpperCase – 
+Converte uma string em letras maiúsculas
+
+toLowerCase – 
+Converte uma string em letras minúsculas
