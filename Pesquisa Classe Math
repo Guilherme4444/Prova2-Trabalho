@@ -1,0 +1,35 @@
+abs;
+O método retorna o valor absoluto (positivo) de x.
+
+ceil;
+Retorna o valor de x arredondado para o inteiro mais próximo.
+
+Cos;
+Retorna o cosseno de x (x está em radianos).
+
+floor;
+Retorna o valor de x arredondado para o inteiro mais próximo.
+
+ log10;
+Retorna o logaritmo de base 10 de x.
+
+Max;
+Retorna o número com o maior valor.
+
+Min;
+Retorna o número com o menor valor.
+
+Pow;
+Retorna o valor de x elevado a y.
+
+Random;
+Retorna um número aleatório entre 0 e 1.
+
+Sin;
+Retorna o seno de x (x está em radianos).
+
+Tan;
+Retorna a tangente de um ângulo.
+
+Sqrt;
+Retorna a raiz quadrada de x.
