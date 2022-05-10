@@ -10,3 +10,6 @@ public class ExemploString {
         
     }
 }
+
+
+// CharAT e Length
